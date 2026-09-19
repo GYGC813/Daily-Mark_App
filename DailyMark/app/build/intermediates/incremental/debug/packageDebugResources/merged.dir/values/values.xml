@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ink">#2A2A26</color>
+    <color name="paper">#EFE9DC</color>
+    <color name="paper_dark">#1C1B18</color>
+    <color name="paper_raised">#F6F1E6</color>
+    <color name="stamp">#A8382C</color>
+    <string name="app_name">Daily Mark</string>
+    <style name="Theme.DailyMark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/stamp</item>
+        <item name="android:statusBarColor">@color/paper</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/paper</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

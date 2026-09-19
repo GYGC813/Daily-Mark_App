@@ -1,0 +1,10 @@
+com.dailymark.app
+color ink
+color paper
+color paper_dark
+color paper_raised
+color stamp
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme_DailyMark
